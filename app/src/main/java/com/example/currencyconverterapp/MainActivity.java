@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         String egp = String.valueOf(egpdouble);
         Log.i("test","test");
+        Log.i("test","test");
 
         Toast.makeText(this, egp + " EGP £", Toast.LENGTH_SHORT).show();
 
