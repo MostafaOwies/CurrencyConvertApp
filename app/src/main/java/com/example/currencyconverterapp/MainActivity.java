@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
         output.setText(egp + " EGP £");
 
 
+
+
+
     }
 
     @Override
